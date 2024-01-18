@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there! 👋
+
+I'm Himanshu, a passionate full-stack developer with expertise in Node.js and Python. I love building scalable and efficient applications.
+
+
+### Skills
+
+- **Languages:** JavaScript (Node.js), Python
+- **Web Development:** HTML, CSS, React
+- **Database:** MongoDB, MySQL
+- **Tools & Platforms:** Git, VS Code 
+
 
 <!--
 **himcode/himcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
